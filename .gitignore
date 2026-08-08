@@ -1,0 +1,7 @@
+.dub/
+docs/
+*.o
+*.a
+*.lib
+serpcurve-test-*
+__test__*
