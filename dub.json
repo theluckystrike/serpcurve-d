@@ -1,7 +1,7 @@
 {
 	"name": "serpcurve",
 	"description": "Fit a search click-through curve to your own measured position/impression/click rows, then convert ranking positions into expected clicks. No built-in industry CTR table.",
-	"homepage": "https://toolsthatrank.com/",
+	"homepage": "https://toolsthatrank.com",
 	"authors": [
 		"ToolsThatRank"
 	],
